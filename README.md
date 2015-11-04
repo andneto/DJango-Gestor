@@ -31,9 +31,7 @@ Release 0.1:
 * Adicionado arquivo CSS "login.css".
 * Adicionado arquivo CSS "prettify.css".
 
-------------------------------------------------------------------------------------------------------------
--> Release 0.2:
-------------------------------------------------------------------------------------------------------------
+Release 0.2:
 
 * Alteração no layout da página "solicitarcadastro.html".
 * Página "cadastar.html" foi renomeada para "paginabase.html".
@@ -42,10 +40,9 @@ Release 0.1:
 * Estilo do "input radio" foi alterado.
 * Imagem "checkbox.png" foi adicionada ao projeto.
 
-------------------------------------------------------------------------------------------------------------
--> Informações adicionais:
-------------------------------------------------------------------------------------------------------------
--> Código desenvolvido por Neto Andrade.
--> Contato: andneto@hotmail.com
--> Frameworks: Java, html, css e bootstrap.
--> Programas: Dreamweaver e photoshop.
+Informações adicionais:
+
+* Código desenvolvido por Neto Andrade.
+* Contato: andneto@hotmail.com
+* Frameworks: Java, html, css e bootstrap.
+* Programas: Dreamweaver e photoshop.
