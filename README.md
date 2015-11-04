@@ -1,11 +1,9 @@
 # DJango-Gestor
 Interface gráfica do aplicativo DJango Gestor.
 
--> Confira abaixo todas as alterações computadas sobre cada versão lançada.
+Confira abaixo todas as alterações computadas sobre cada versão lançada.
 
-------------------------------------------------------------------------------------------------------------
--> Release 0.1:
-------------------------------------------------------------------------------------------------------------
+Release 0.1:
 
 * Página "index.html" criada.
 * Página "cadastrar.html" criada.
