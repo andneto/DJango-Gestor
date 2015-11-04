@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cadastrar</title>
+	<link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/bootstrap-theme.css" rel="stylesheet">
+	<link href="css/bootstrap-theme.min.css" rel="stylesheet">
+	<link href="css/full.css" rel="stylesheet">
+	<link href="css/bootstrap-modal.css" rel="stylesheet">
+	<link href="css/bootstrap-modal-bs3patch.css" rel="stylesheet">
+	<link href="css/bootstrap-responsive.css" rel="stylesheet">
+	<link href="css/prettify.css" rel="stylesheet">
+</head>
+<body>
+	<!-- Chamadas JavaScript -->
+    <script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/npm.js"></script>
+	<script src="js/bootstrap-modal.js"></script>
+	<script src="js/bootstrap-modalmanager.js"></script>
+	
+	<!-- Logo -->
+	<br>
+	<center><div id="logo"></div></center>
+	<br>
+	
+	<!-- Mensagem de aviso -->
+	<div class="container">
+	<div class="jumbotron">
+		<h1 id="msgavisotitulo" class="glyphicon glyphicon-asterisk" aria-hidden="true">Observações importantes:</h1>
+		<p id="msgavisotexto">-> OBS¹ - O seu cadastro será aceito por um administrador global.</p>
+		<p id="msgavisotexto">-> OBS² - Efetue o cadastro corretamente para evitar problemas futuros.</p>
+		<p id="msgavisotexto">-> OBS³ - Você receberá um e-mail resposta quando o seu cadastro for aceito.</p>
+		<center><button class="demo btn btn-warning btn-lg" data-toggle="modal" href="#full-width" id="fontebotao">CADASTRAR</button></center>
+	</div>
+	
+	<!-- Código responsável por cadastrar novos usuários -->
+	<div id="full-width" class="modal container fade" tabindex="-1" style="display: none;" data-width="500">
+	<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h4 class="modal-title" id="fontepadrao">Formulário de cadastro:</h4>
+	</div>
+	
+	<form style="margin: 10px">
+	<div class="form-group">
+    <label id="fontepadrao">Nome:</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Digite o seu nome completo." required>
+	</div>
+	
+	<div class="form-group">
+    <label id="fontepadrao">E-mail:</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Digite seu e-mail." required>
+	</div>
+	
+	<div class="form-group">
+    <label id="fontepadrao">Senha:</label>
+    <input type="password" class="form-control" id="exampleInputEmail1" placeholder="Digite a sua senha." required>
+	</div>
+	</form>
+	
+	<!-- Botões de cancelar e salvar formulário -->
+	<div class="modal-footer">
+    <button type="button" data-dismiss="modal" class="btn btn-danger" id="fontebotao">CANCELAR</button>
+    <button type="button" class="btn btn-primary" id="fontebotao" href="#static" data-toggle="modal">SALVAR</button>
+	</div>
+	</div>
+
+	<!-- Código responsável pela mensagem de confirmação -->
+	<div id="static" class="modal fade" tabindex="-1" data-backdrop="static" data-keyboard="false" style="display: none;">
+	<div class="modal-body">
+    <div class="alert alert-info" role="alert" id="fontepadrao" align="center">SEU CADASTRO FOI EFETUADO COM SUCESSO!</div>
+	</div>
+	
+	<!-- Botão de ok -->
+	<div class="modal-footer">
+    <button type="button" class="btn btn-success" id="fontebotao" href="index.html">OK</button>
+	</div>
+	</div>
+</body>
+</html>

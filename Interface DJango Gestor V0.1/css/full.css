@@ -1,0 +1,62 @@
+body{
+	background-image: url("../imgs/fundo.jpg");
+}
+
+#logo {
+	background-image: url("../imgs/logo.png");
+	width: 423px;
+	height: 107px;
+	position: block;
+}
+
+h1 > a{
+	font-family: Lucida Console;
+	font-size: 15px;
+	color: #778899;
+}
+
+h1 > a:link, a:visited {
+	text-decoration: none;
+}
+h1 > a:hover {
+	text-decoration: underline; 
+	color: #FFFF00;
+}
+h1 > a:active {
+	text-decoration: none;
+}
+
+#titulopag {
+	font-family: Lucida Console;
+	text-indent: 1.5em;
+	font-size: 30px;
+	left: 30px;
+	color: #FFA500;
+}
+
+#corsmall {
+	color: #F8F8FF;
+}
+
+#fontepadrao {
+	font-family: Lucida Console;
+	font-weight: bold;
+}
+
+#fontebotao {
+	font-family: Courier New;
+	font-weight: bold;
+}
+
+#msgavisotitulo{
+	font-family: Lucida Console;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#msgavisotexto {
+	font-family: Courier New;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: oblique;
+}
