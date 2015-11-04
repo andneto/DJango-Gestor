@@ -1,4 +1,4 @@
-DJango Gestor
+# DJango-Gestor
 Interface gráfica do aplicativo DJango Gestor.
 
 Release 0.1:
