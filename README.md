@@ -44,5 +44,5 @@ Informações adicionais:
 
 * Código desenvolvido por Neto Andrade.
 * Contato: andneto@hotmail.com
-* Frameworks: Java, html, css e bootstrap.
+* Frameworks: Javascript, html, css e bootstrap.
 * Programas: Dreamweaver e photoshop.
