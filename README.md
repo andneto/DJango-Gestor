@@ -1,7 +1,11 @@
 # DJango-Gestor
 Interface gráfica do aplicativo DJango Gestor.
 
-Release 0.1:
+-> Confira abaixo todas as alterações computadas sobre cada versão lançada.
+
+------------------------------------------------------------------------------------------------------------
+-> Release 0.1:
+------------------------------------------------------------------------------------------------------------
 
 * Página "index.html" criada.
 * Página "cadastrar.html" criada.
@@ -29,7 +33,9 @@ Release 0.1:
 * Adicionado arquivo CSS "login.css".
 * Adicionado arquivo CSS "prettify.css".
 
-Release 0.2:
+------------------------------------------------------------------------------------------------------------
+-> Release 0.2:
+------------------------------------------------------------------------------------------------------------
 
 * Alteração no layout da página "solicitarcadastro.html".
 * Página "cadastar.html" foi renomeada para "paginabase.html".
@@ -37,3 +43,11 @@ Release 0.2:
 * Agora as páginas "atividades.html" e "projetos.html" contém código html de cadastro.
 * Estilo do "input radio" foi alterado.
 * Imagem "checkbox.png" foi adicionada ao projeto.
+
+------------------------------------------------------------------------------------------------------------
+-> Informações adicionais:
+------------------------------------------------------------------------------------------------------------
+-> Código desenvolvido por Neto Andrade.
+-> Contato: andneto@hotmail.com
+-> Frameworks: Java, html, css e bootstrap.
+-> Programas: Dreamweaver e photoshop.
