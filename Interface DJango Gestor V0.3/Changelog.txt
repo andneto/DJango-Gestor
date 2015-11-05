@@ -1,0 +1,5 @@
+Release 0.3:
+Responsável pela alteração: Vinicius Viana.
+
+* Retirado os campos "prioridade" e "responsável" no cadastro da página "projetos.html".
+* Adicionado o campo "tempo" no cadastro da página "atividades.html.

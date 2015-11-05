@@ -1,0 +1,9 @@
+Release 0.2:
+Responsável pela alteração: Neto Andrade.
+
+* Alteração no layout da página "solicitarcadastro.html".
+* Página "cadastar.html" foi renomeada para "paginabase.html".
+* Adicionado um botão de cadastro nas páginas "atividades.html" e "projetos.html".
+* Agora as páginas "atividades.html" e "projetos.html" contém código html de cadastro.
+* Estilo do "input radio" foi alterado.
+* Imagem "checkbox.png" foi adicionada ao projeto.
