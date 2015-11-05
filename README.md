@@ -45,6 +45,25 @@ Release 0.3 - Responsável pela alteração: Vinicius Viana.
 * Retirado os campos "prioridade" e "responsável" no cadastro da página "projetos.html".
 * Adicionado o campo "tempo" no cadastro da página "atividades.html.
 
+Release 0.4 - Responsável pela alteração: Neto Andrade.
+
+* Página "relatorios.html" criada.
+* Pasta de arquivos "base" criada.
+* Página "indexbase.html" criada.
+* Página "indexbase.html" movida para a pasta "base".
+* Página "relatorios.html criada.
+* Adicionado título "Relatório" na página "relatorios.html".
+* Página "relatorios.html" foi adicionado ao menu do projeto.
+* Página "atividades.html" teve seu título renomeado de "Atividades" para "Atividade".
+* Página "projetos.html" teve seu título renomeado de "Projetos" para "Projeto".
+* Botão "ok" da função procurar foi renomeado de "OK!" para "OK" em todas as páginas.
+* Página "index.html" foi renomeado para "indexoperador.html".
+* Página "atividades.html" foi renomeado para "atividade.html".
+* Página "projetos.html" foi renomeado para "projeto.html".
+* Página "relatorios.html" foi renomeado para "relatorio.html".
+* Corrigido todos os bugs da página "solicitarcadastro.html".
+* Corrigido bug que o botão "ok" da página "solicitarcadastro.html" não funcionava.
+
 Informações adicionais:
 
 * Código desenvolvido por Neto Andrade.
