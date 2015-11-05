@@ -3,8 +3,7 @@ Interface gráfica do aplicativo DJango Gestor.
 
 Confira abaixo todas as alterações computadas sobre cada versão lançada.
 
-Release 0.1:
-Responsável pela alteração: Neto Andrade.
+Release 0.1 - Responsável pela alteração: Neto Andrade.
 
 * Página "index.html" criada.
 * Página "cadastrar.html" criada.
@@ -32,8 +31,7 @@ Responsável pela alteração: Neto Andrade.
 * Adicionado arquivo CSS "login.css".
 * Adicionado arquivo CSS "prettify.css".
 
-Release 0.2:
-Responsável pela alteração: Neto Andrade.
+Release 0.2 - Responsável pela alteração: Neto Andrade.
 
 * Alteração no layout da página "solicitarcadastro.html".
 * Página "cadastar.html" foi renomeada para "paginabase.html".
@@ -42,8 +40,7 @@ Responsável pela alteração: Neto Andrade.
 * Estilo do "input radio" foi alterado.
 * Imagem "checkbox.png" foi adicionada ao projeto.
 
-Release 0.3:
-Responsável pela alteração: Vinicius Viana.
+Release 0.3 - Responsável pela alteração: Vinicius Viana.
 
 * Retirado os campos "prioridade" e "responsável" no cadastro da página "projetos.html".
 * Adicionado o campo "tempo" no cadastro da página "atividades.html.
