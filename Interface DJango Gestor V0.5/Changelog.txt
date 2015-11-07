@@ -1,0 +1,24 @@
+Release 0.5:
+Responsável pela alteração: Neto Andrade.
+
+* CSS "bootstrap.min.css" removido.
+* CSS "bootstrap-theme.min.css" removido.
+* CSS "font-awesome.min.css" removido.
+* CSS "login.css" foi renomeado para "loginoperador.css".
+* JavaScript "bootstrap.min.js" removido.
+* CSS "font-awesome.css" adicionado.
+* CSS "checkbox.css" adicionado.
+* Fonte "glyphicons-halflings-regular.ttf" adicionado.
+* Fonte "FontAwesome.ttf" adicionado.
+* Pasta de fontes "fonts" criada.
+* Pasta de ícones "less" criada.
+* Pasta de ícores "scss" criada.
+* Página "indexadmin.html" criada.
+* Página "recuperarsenha.html" criada.
+* Adicionado botão "voltar" na página "solicitarcadastro.html".
+* Adicionado botão "administração" na página "indexoperador.html".
+* Adicionado botão "recuperar senha" na página "indexoperador.html".
+* Adicionado duas novas imagens: "fundo1.png" e "fundo2.jpg".
+* Tirado códigos considerado "lixo" em todas as páginas.
+* Ajustes realizado na página "indexoperador.html".
+* Ajustes realizado em todos os css do projeto.
