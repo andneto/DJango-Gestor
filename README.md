@@ -88,6 +88,49 @@ Release 0.5 - Responsável pela alteração: Neto Andrade. (Data: 07/11/2015).
 * Ajustes realizado na página "indexoperador.html".
 * Ajustes realizado em todos os css do projeto.
 
+Release 0.6 - Responsável pela alteração: Neto Andrade. (Data: 08/11/2015).
+
+* Página "atividade.html" foi removida do projeto.
+* Página "projeto.html" foi renomeada para "operadorprojeto.html".
+* Página "recuperarsenha.html" foi renomeada para "operadorrecuperarsenha.html".
+* Página "relatorio.html" foi renomeada para "operadorrelatorio.html".
+* Página "solicitarcadastro.html" foi renomeada para "operadorsolicitarcadastro.html".
+* Página "indexadmin.html" criada.
+* Página "indexadminpainel.html" criada.
+* Página "adminpainelprojeto.html" criada.
+* Página "adminpainelsolicitacao.html" criada.
+* Página "adminpainelusuario.html" criada.
+* Página "adminpainelperfil.html" criada.
+* Página "adminpainelmudarsenha.html" criada.
+* Página "operadormudarsenha.html" criada.
+* Página "operadorperfil.html" criada.
+* Página "operadorrecuperarsenha.html" criada.
+* Página "projeto.html" renomeada para "operadorprojeto.html".
+* Página "atividade.html" renomeada para "operadoratividade.html".
+* Página "relatorio.html" renomeada para "operadorrelatorio.html".
+* Página "solicitarcadastro.html" renomeada para "operadorsolicitarcadastro.html".
+* CSS "loginadmin.css" adicionado.
+* CSS "paineladmin.css" adicionado.
+* CSS "morris.css" adicionado.
+* CSS "formestilo.css" adicionado.
+* JavaScript "excanvas.js" adicionado.
+* JavaScript "flot-data.js" adicionado.
+* JavaScript "jquery.flot.js" adicionado.
+* JavaScript "jquery.flot.pie.js" adicionado.
+* JavaScript "jquery.flot.resize.js" adicionado.
+* JavaScript "jquery.flot.tooltip.min.js" adicionado.
+* JavaScript "jquery.js" adicionado.
+* JavaScript "morris.js" adicionado.
+* JavaScript "morris-data.js" adicionado.
+* JavaScript "phael.js" adicionado.
+* Código da página "operadorprojeto.html" foi atualizado.
+* Código da página "operadorrelatorio.html" atualizado.
+* Cadastro da página "operadorprojeto.html" refeito.
+* Página "operadorrecuperarsenha.html" agora possui formulário.
+* Corrigido bugs na página "indexadmin.html".
+* Tabela das páginas "adminpainelsolicitacao.html" e "adminpainelusuario.html estão prontas.
+* Corrigido bug no formulário da página "operadorprojeto.html".
+
 Informações adicionais:
 
 * Código desenvolvido por Neto Andrade.
