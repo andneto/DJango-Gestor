@@ -131,6 +131,26 @@ Release 0.6 - Responsável pela alteração: Neto Andrade. (Data: 08/11/2015).
 * Tabela das páginas "adminpainelsolicitacao.html" e "adminpainelusuario.html estão prontas.
 * Corrigido bug no formulário da página "operadorprojeto.html".
 
+Release 0.7 - Responsável pela alteração: Neto Andrade. (Data: 15/11/2015).
+
+* Página "adminpainelperfil.html" foi removido do projeto.
+* Página "operadorperfil.html" foi removido do projeto.
+* CSS "prettify.css" foi removido do projeto.
+* CSS "bootstrap-responsive.css" foi removido do projeto.
+* CSS "morris.css" foi removido do projeto.
+* JavaScript "morris.js" foi removido do projeto.
+* JavaScript "morris.min.js" foi removido do projeto.
+* JavaScript "morris-data.js" foi removido do projeto.
+* JavaScript "phael.js" foi removido do projeto.
+* JavaScript "modernizer.js" foi removido do projeto.
+* JavaScript "excanvas.min.js" foi removido do projeto.
+* Retirado de todas as páginas os códigos considerados "lixo".
+* Os projetos da página "operadorprojeto.html" são exibidos via dropdown.
+* Página "indexadminpainel.html" agora possui conteúdo e timeline.
+* Corrigido bug de todas as tabelas.
+* Corrigido bug na responsividade dos menus.
+* Painel de projetos agora é exibido via dropdown.
+
 Informações adicionais:
 
 * Código desenvolvido por Neto Andrade.
